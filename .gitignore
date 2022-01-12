@@ -1,0 +1,9 @@
+artifacts/
+cache/
+deployed-contracts.json
+node_modules/
+typechain/
+.env
+.vscode
+bin
+*_flat.sol
